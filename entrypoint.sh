@@ -2,7 +2,7 @@
 
 # 设置各变量，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'a9ced246-7ae3-42d4-a229-45a890877612'}
+UUID=${UUID:-'d64f3817-53f2-44ff-831e-4e673cb7a7d9'}
 
 # 安装系统依赖
 check_dependencies() {
